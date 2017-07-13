@@ -1,0 +1,25 @@
+{
+  "name": "missions-code-step-example",
+  "version": "1.0.0",
+  "description": "An example Mission Code Step to get you started.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.15.2",
+    "body-parser": "^1.17.1",
+    "morgan": "^1.8.1"
+  },
+  "engines": {
+    "node": "6.10.x"
+  },
+  "repository": {
+    "url": "https://github.com/corygrunk/missions-code-step-example"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch"
+  ]
+}

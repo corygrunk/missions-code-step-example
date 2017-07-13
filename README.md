@@ -1,2 +1,7 @@
-# missions-code-step-example
-An example of a custom "Code Step" for Missions
+Missions Example Code Step
+==========================
+
+This Glitch project is an example Code Step for Missions (https://missions.ai).
+
+- Missions: https://missions.ai
+- Missions Dev Quickstart: https://missions.ai/developers/
