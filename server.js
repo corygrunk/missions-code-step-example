@@ -13,7 +13,8 @@ app.get("/", (req, res) => {
 app.post("/", json(), function (req, res) {
   // Assign the input from Missions to a variable
   var input = req.body.input[1].value
-
+  console.log('Input received: ' + input)
+  
   // Check if the verification token is valid
   var verify_token = req.get('x-verification');
 
