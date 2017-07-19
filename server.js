@@ -1,10 +1,8 @@
 // init project
 var express = require('express')
-var morgan = require('morgan')
 var json = require('body-parser').json
 var app = express()
 
-app.use(morgan('dev'))
 app.get("/", (req, res) => {
   res.send('OK')
 })
