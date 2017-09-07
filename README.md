@@ -7,7 +7,6 @@ Links
 -----
 
 - Missions: https://missions.ai
-- Missions Dev Quickstart: https://missions.ai/developers/
 - Glitch Project: https://glitch.com/edit/#!/simple-turner
 - Video Tutorial: https://youtu.be/jVT0z6wIIxU
 
